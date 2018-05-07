@@ -58,7 +58,8 @@
 		  (wheatgrass t "native")
 		  (whiteboard nil "native")
 		  (wombat t "native")
-		  (zenburn t "https://github.com/bbatsov/zenburn-emacs" "zenburn-theme"))))
+		  (zenburn t "https://github.com/bbatsov/zenburn-emacs" "zenburn-theme")
+		  (srcery t "https://github.com/roosta/emacs-srcery" "srcery-theme"))))
 
     (with-temp-buffer 
       (insert "var emacsThemesGallery = {};\n")
